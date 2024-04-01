@@ -1,5 +1,6 @@
 # SNAKE
 
+![Cover](https://raw.githubusercontent.com/ewcgit/snake/main/SNAKE%20Screenshots/snake.png)
 
 ## Controls:
 
@@ -24,3 +25,6 @@ GML explanations: https://www.youtube.com/watch?v=eGZW3f7-KR0
 Sound effects produced with: https://www.bfxr.net/
 
 Cover art: https://www.publicdomainpictures.net/en/view-image.php?image=571425&picture=snake-artistic-drawing-art
+
+
+![Gameplay](https://raw.githubusercontent.com/ewcgit/snake/main/SNAKE%20Screenshots/snake%20screenshot.png)
