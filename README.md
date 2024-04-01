@@ -1,5 +1,6 @@
 # SNAKE
 
+
 ## Controls:
 
 WASD or arrow keys to move Snake.
@@ -21,3 +22,5 @@ Music produced with: https://meme.institute/gxscc/
 GML explanations: https://www.youtube.com/watch?v=eGZW3f7-KR0
 
 Sound effects produced with: https://www.bfxr.net/
+
+Cover art: https://www.publicdomainpictures.net/en/view-image.php?image=571425&picture=snake-artistic-drawing-art
