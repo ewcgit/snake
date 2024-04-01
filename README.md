@@ -3,10 +3,12 @@
 ## Controls:
 
 WASD or arrow keys to move Snake.
+Click screen to begin the game.
+Enter to restart the game.
 
 ## How to play:
 
-Download the compiled zip to run the .exe in Windows. Alternatively, it is playable in my blog: 
+Download the compiled zip to run the .exe in Windows. Alternatively, it is playable directly in my Itch.io page: https://ecgit.itch.io/snake
 
 ## Credits:
 
